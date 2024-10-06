@@ -1,0 +1,64 @@
+.owl-nav {
+  position: absolute;
+  top: -5rem;
+  right: 0;
+}
+
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel button.owl-dot {
+  background: 0 0;
+  border: none;
+  padding: 0 !important;
+}
+
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev {
+  border: 1px solid #d3d0d0;
+  padding: 0 15px !important;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.owl-dots {
+  margin-top: 3rem; color: crimson;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+  color: #cb4452;
+  background: #cb4452;
+  padding: 7px;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  background: white;
+  border-color: #cb4452;
+  border: 2px solid;
+}
+
+.owl-theme .owl-dots .owl-dot:hover span {
+  background: #cb4452;
+}
+
+.owl-theme .owl-dots .owl-dot.active span {
+  background: white;
+}
+  .kk
+  {
+    margin-top: -20px; 
+  }
+  .but{
+    margin-top: -20px; 
+  }
+  .mut{
+    margin-top: -20px; 
+  }
+  .cut{
+    margin-top: -20px; 
+  }
+  .sut{
+    margin-top: -20px; 
+  }
+  
